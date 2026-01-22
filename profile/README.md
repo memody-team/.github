@@ -1,6 +1,7 @@
 # 멜로디로 기억되는 일상, MeMody
 
-음악 기반 커뮤니티 서비스 (Memory + Melody)
+**SWU 2025 Winter GURU2 Android - 27조 Memody Organization**
+
 
 ### **배경 및 문제 제기**
 
@@ -13,7 +14,7 @@
 > 이로 인해 음악은 순간적으로 소비될 뿐, 개인의 경험으로 축적되지 못하고 있다.
 
 
-<br> <br>
+<br>
 
 ### 서비스 목표
 
