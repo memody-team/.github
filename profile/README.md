@@ -1,12 +1,21 @@
-## Memody 
+# 멜로디로 기억되는 일상, MeMody
 
-<!--
+음악 기반 커뮤니티 서비스 (Memory + Melody)
 
-**Here are some ideas to get you started:**
+### **배경 및 문제 제기**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> 요즘 음악은 단순한 감상 수단을 넘어, 개인의 취향과 순간의 감정을 드러내는 중요한 매개체가 되고 있다.<br>
+> 그러나 새로운 음악을 탐색하는 과정은 여전히 번거롭고 진입 장벽이 높다. <br>
+> 또한 기존 음악 서비스는 음악을 플레이리스트에 추가하는 기능에 집중되어 있다.
+
+> 플레이리스트에 저장하지 않으면 음악과 관련된 기억은 쉽게 사라지며, <br>
+> 사용자는 언제, 어디서, 이 음악을 들으며 어떤 생각을 했는지  되돌아볼 수 없다. <br>
+> 이로 인해 음악은 순간적으로 소비될 뿐, 개인의 경험으로 축적되지 못하고 있다.
+
+
+<br> <br>
+
+### 서비스 목표
+
+> *개인의 음악 경험을 기록하고, 다른 사용자와 음악 취향으로 연결될 수 있는 플랫폼*
+>
