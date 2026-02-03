@@ -3,19 +3,10 @@
 **SWU 2025 Winter GURU2 Android - 27조 Memody Organization**
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2402e5fa-930c-4824-9a75-bf2f29229203" />
 
-
-### **배경 및 문제 제기**
-
-> 요즘 음악은 단순한 감상 수단을 넘어, 개인의 취향과 순간의 감정을 드러내는 중요한 매개체가 되고 있다.<br>
-> 그러나 새로운 음악을 탐색하는 과정은 여전히 번거롭고 진입 장벽이 높다. <br>
-> 또한 기존 음악 서비스는 음악을 플레이리스트에 추가하는 기능에 집중되어 있다.
-
-> 플레이리스트에 저장하지 않으면 음악과 관련된 기억은 쉽게 사라지며, <br>
-> 사용자는 언제, 어디서, 이 음악을 들으며 어떤 생각을 했는지  되돌아볼 수 없다. <br>
-> 이로 인해 음악은 순간적으로 소비될 뿐, 개인의 경험으로 축적되지 못하고 있다.
-
-
+> 🏆2025 Winter GURU2 최우수상(2등) 수상작🥈<br>
+> 개발 기간: 2026.01.13 ~ 2026.01.27 (전체: 2025.12.29 ~ 2026.01.27)
 <br>
+
 
 ### 서비스 목표
 
@@ -27,6 +18,20 @@ MeMody는 음악을 단순히 소비하는 것을 넘어,
 음악과 공간이 자연스럽게 연결될 수 있는 **확장된 사용자 경험**을 제공하고자 합니다.
 
 <br> 
+
+
+## Background
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d3ca3852-0547-4045-95ea-ae0f971b7283" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/e0fb9815-c989-42ff-b636-2d409868240f" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/95e2368a-5c86-4604-899d-d5cc0518651a" />
+
+## Problem
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4eeac44d-4861-471e-a840-5c2a768df06d" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/8f0559b2-162e-4aa9-992e-beb2efa13e93" />
+
+## Solution
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d07b6e0-c430-4f04-8cf9-9a129a4b50f0" />
+<br>
 
 ### 서비스 아키텍쳐 
 <img width="926" height="655" alt="image" src="https://github.com/user-attachments/assets/56d79a0e-1ffc-4f85-9e40-ef6f40ae824d" />
